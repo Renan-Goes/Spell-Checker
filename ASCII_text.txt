@@ -1,0 +1,4 @@
+ola meu nome eh renan e este eh um programa de dicionario
+eu estou escrevendo este arquivo de texto como teste
+gostaria de saber se ele funciona direito
+obrigado

@@ -1,0 +1,16 @@
+Número total de palavras do texto: 30
+Tempo total da verificação: 105.00ms
+Número de palavras que falharam no spell check: 9
+Lista de palavras que falharam no spell check:
+
+Num. Ocorrencia Palavra: Linha, Coluna
+----------------------------------------
+1 - programa : 1, 10
+2 - estou : 2, 13
+3 - escrevendo : 2, 14
+4 - arquivo : 2, 16
+5 - como : 2, 19
+6 - gostaria : 3, 20
+7 - funciona : 3, 25
+8 - obrigado : 4, 26
+9 - funciona : 4, 30
